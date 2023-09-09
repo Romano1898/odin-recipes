@@ -1,4 +1,4 @@
-.carbonara .steak .pie
+.carbonara, .steak, .pie
 {
 height: auto;
 width: 500px;
@@ -7,6 +7,17 @@ width: 500px;
 h1, h2, h3
 {
 font-family: "Brush Script MT", cursive;
+}
+
+h2, h3
+{
+color:white;
+background-color:black;
+}
+
+.home
+{
+display: block;
 }
 
 
